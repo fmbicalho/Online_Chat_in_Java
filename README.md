@@ -13,7 +13,7 @@ During this week, we covered topics like networking, threading, sockets, and con
 
 ### 🏆 Achievement
 
-This chat server project was developed in 24 hours during my bootcamp at **Code For All_**. The challenge was to build a network application, and we chose to create this chat server to apply what we had just learned about threads, sockets, and concurrency. 
+This chat server project was developed in 24 hours during my bootcamp at **Code For All_**. The challenge was to build a network application, and I chose to create this chat server to apply what we had just learned about threads, sockets, and concurrency. 
 
 ### 🛠️ Project Overview
 
